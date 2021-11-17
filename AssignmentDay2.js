@@ -14,3 +14,11 @@ else {
 }
 
 console.log("The bigger number is " + bigger);
+
+
+// Another step : can use for user input
+// const a = parseFloat(prompt("Enter first number: "));
+// const b = parseFloat(prompt("Enter second number: "));
+// const c = parseFloat(prompt("Enter third number: "));
+// let bigger;
+
